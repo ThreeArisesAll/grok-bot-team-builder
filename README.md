@@ -2,8 +2,6 @@
 
 一个 Grok Bot Skill：把任何反复要做的大活，拆成一支**一个 bot 只干一件事、靠文件交接、只在决策点等人**的 Grok Bot 团队，然后帮你建好、接通、跑通第一轮。编辑部、调研组、产品流水线、运营组，什么领域都可以。
 
-方法论借鉴自 Avid（[@Av1dlive](https://x.com/Av1dlive)）的长文 [How to Build Anything with Grok Bot (Full Course)](https://x.com/Av1dlive/status/2111125320590074017)。原文搭的是一条产品开发流水线，这里去掉了产品开发的外壳，只留下通用的建队骨架，再补上真实团队试跑出来的经验。
-
 ## 里面有什么
 
 - `SKILL.md`：Skill 本体。七条原则，加上从“要不要团队”到“建队、冒烟测试、交付”的八个步骤，以及共享规则块和个人指令两份模板。
